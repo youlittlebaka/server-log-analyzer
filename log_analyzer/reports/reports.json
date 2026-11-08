@@ -1,0 +1,21 @@
+{
+    "total_logs": 11,
+    "level_count": {
+        "INFO": 2,
+        "WARNING": 1,
+        "ERROR": 7,
+        "CRITICAL": 1
+    },
+    "error_counts": {
+        "Database connection failed": 5,
+        "Database drive full": 2
+    },
+    "most_common_error": "Database connection failed",
+    "error_percentage": 63.64,
+    "date_level_count": {
+        "INFO": 2,
+        "WARNING": 1,
+        "ERROR": 6,
+        "CRITICAL": 1
+    }
+}
